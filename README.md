@@ -12,7 +12,7 @@
             <div class="avatar">
                 <img src="link-to-your-image.jpg" alt="Beauty By NMN" />
             </div>
-            <h1>BEAUTY BY NMN</h1>
+            <h1>HUB GAMING</h1>
             <p>Chào mừng bạn đến với HUB GAMING, Tại đây, bạn sẽ được giải trí với những video gameplay, review, livestream và chia sẻ kinh nghiệm thú vị. Hãy đăng ký và theo dõi tôi trên mọi nền tản để không bỏ lỡ những nội dung độc đáo mỗi ngày! </p>
             <a href="zalo-link" class="button">Ủng hộ mình ở đây nhé!</a>
         </header>
