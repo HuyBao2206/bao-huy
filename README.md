@@ -62,7 +62,7 @@
 <body>
 
 <header>
-    <img src="https://i.imgur.com/7qaqVld.png" alt="BẢO HUY">
+    <img src="[https://i.imgur.com/7qaqVld.png](https://github.com/HuyBao2206/bao-huy/blob/69392fcf664bdf0554195c802972ec654976c0fd/logo.png)" alt="BẢO HUY">
     <h1>BẢO HUY</h1>
     <h2>FREELANCER</h2>
     <p>"Eager to learn new things | Structured work approach with a strong focus on efficiency"</p>
@@ -98,10 +98,8 @@
     <h2>Kinh nghiệm làm việc</h2>
     <p><strong>Freelance Copywriter (02/2023 - 08/2023)</strong></p>
     <p>Viết nội dung chuẩn SEO, đa dạng cho nhiều khách hàng. Đảm bảo chất lượng nội dung và deadline.</p>
-    
     <p><strong>Intern Translator (06/2023 - 08/2023)</strong></p>
     <p>Dịch tài liệu, thư từ, văn bản ngoại giao giữa tiếng Anh và tiếng Việt. Nghiên cứu ngữ cảnh văn hóa để đảm bảo bản dịch chính xác.</p>
-    
     <p><strong>Freelance SEO Content Writer (02/2024 - Present)</strong></p>
     <p>Viết nội dung tối ưu SEO giúp tăng thứ hạng tìm kiếm. Duy trì chất lượng nội dung nhất quán và đúng hạn.</p>
 </section>
