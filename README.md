@@ -57,6 +57,7 @@
         }
         .social-links a {
             margin: 0 10px;
+            color: #333;
         }
         .footer {
             text-align: center;
@@ -69,7 +70,7 @@
 <body>
     <div class="container">
         <div class="header">
-            <img src="https://github.com/HuyBao2206/bao-huy/blob/36c0fc733b3369d22c5c13cdf65077e12f0d1957/%C4%91%E1%BA%A1i%20di%E1%BB%87n.png" alt="Logo">
+            <img src="https://github.com/HuyBao2206/bao-huy/raw/36c0fc733b3369d22c5c13cdf65077e12f0d1957/%C4%91%E1%BA%A1i%20di%E1%BB%87n.png" alt="Logo">
             <h1>BEAUTY BY NMN</h1>
             <p>Chào mừng bạn đến với HUB GAMING</p>
             <p>Tại đây, bạn sẽ được giải trí với những video gameplay, review, livestream và chia sẻ kinh nghiệm thú vị. Hãy đăng ký để không bỏ lỡ những nội dung độc đáo mỗi ngày!</p>
@@ -78,12 +79,12 @@
         
         <div class="footer">
             <p>Liên hệ với tôi về công việc:</p>
-            <p>📞 <strong>0795858142   </strong> !!!</p>
+            <p>📞 <strong>0795858142</strong> !!!</p>
         </div>
         
         <div class="social-links">
-            <a href="https://www.tiktok.com/@hub_gaming226?_t=ZS-8ugZgYJ97oX&_r=1" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
-            <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
+            <a href="https://www.tiktok.com/@hub_gaming226?_t=ZS-8ugZgYJ97oX&_r=1" target="_blank">Tiktok</a>
+            <a href="https://www.facebook.com" target="_blank">Facebook</a>
         </div>
     </div>
 </body>
