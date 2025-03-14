@@ -26,7 +26,7 @@
             margin-bottom: 20px;
         }
         .avatar img {
-            width: 150px;
+            width: 250px;
             border-radius: 50%;
             border: 3px solid #4CAF50;
         }
