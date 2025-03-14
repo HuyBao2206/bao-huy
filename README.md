@@ -16,13 +16,11 @@
             <p>Chào mừng bạn đến với Beauty by NMN, nơi tôi sẽ chia sẻ những bức ảnh...</p>
             <a href="zalo-link" class="button">Nhắn tin Zalo</a>
         </header>
-        
         <section class="contact-info">
             <p>Nếu bạn thích và muốn có cho mình những bức ảnh như vậy hãy liên hệ với tôi qua địa chỉ :</p>
             <p>📍 1256 Văn Hoá, Văn Tảo, Thương Tín, Hà Nội</p>
             <p>☎️ 0912345678 để được chụp free nha !!!</p>
         </section>
-        
         <footer>
             <div class="social-media">
                 <a href="tiktok-link" target="_blank">TikTok</a>
