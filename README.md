@@ -10,7 +10,7 @@
     <div class="container">
         <header>
             <div class="avatar">
-                <img src="link-to-your-image.jpg" alt="Beauty By NMN" />
+                <img src="https://github.com/HuyBao2206/bao-huy/blob/36c0fc733b3369d22c5c13cdf65077e12f0d1957/%C4%91%E1%BA%A1i%20di%E1%BB%87n.png" alt="Fk" />
             </div>
             <h1>HUB GAMING</h1>
             <p>Chào mừng bạn đến với HUB GAMING, Tại đây, bạn sẽ được giải trí với những video gameplay, review, livestream và chia sẻ kinh nghiệm thú vị. Hãy đăng ký và theo dõi tôi trên mọi nền tản để không bỏ lỡ những nội dung độc đáo mỗi ngày! </p>
