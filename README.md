@@ -88,7 +88,6 @@
             <p>Chào mừng bạn đến với HUB GAMING! Tại đây, bạn sẽ được giải trí với những video gameplay, review, livestream và chia sẻ kinh nghiệm thú vị. Hãy đăng ký và theo dõi mình trên mọi nền tảng để không bỏ lỡ những nội dung độc đáo mỗi ngày!</p>
             <a href="zalo-link" class="button">Ủng hộ mình ở đây nhé!</a>
         </header>
-        </section>
         <section class="section">
             <h2>Lịch phát lên hình cho anh chị em:</h2>
             <p>- Thứ Hai - Thứ Sáu: 19:00 - 21:00.</p>
