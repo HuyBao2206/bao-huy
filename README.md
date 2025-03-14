@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Beauty by NMN</title>
+    <title>BẢO HUY</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -69,21 +69,21 @@
 <body>
     <div class="container">
         <div class="header">
-            <img src="https://via.placeholder.com/100" alt="Logo">
+            <img src="https://github.com/HuyBao2206/bao-huy/blob/36c0fc733b3369d22c5c13cdf65077e12f0d1957/%C4%91%E1%BA%A1i%20di%E1%BB%87n.png" alt="Logo">
             <h1>BEAUTY BY NMN</h1>
-            <p>Chào mừng bạn đến với Beauty by NMN, nơi tôi chia sẻ những bức ảnh...</p>
-            <a href="https://zalo.me/your_zalo" class="contact-button">Nhắn tin Zalo</a>
+            <p>Chào mừng bạn đến với HUB GAMING</p>
+            <p>Tại đây, bạn sẽ được giải trí với những video gameplay, review, livestream và chia sẻ kinh nghiệm thú vị. Hãy đăng ký để không bỏ lỡ những nội dung độc đáo mỗi ngày!</p>
+            <a href="https://zalo.me/your_zalo" class="contact-button">DONATE CHO TÔI TẠI ĐÂY NHÉ !</a>
         </div>
         
         <div class="footer">
-            <p>Nếu bạn thích và muốn có cho mình những bức ảnh như vậy hãy liên hệ với tôi qua địa chỉ:</p>
-            <address>📍 1256 Vạn Hoà, Vạn Tảo, Thương Tín, Hà Nội</address>
-            <p>📞 <strong>0912345678</strong> để được chụp free nha !!!</p>
+            <p>Liên hệ với tôi về công việc:</p>
+            <p>📞 <strong>0795858142   </strong> !!!</p>
         </div>
         
         <div class="social-links">
-            <a href="https://www.tiktok.com" target="_blank"><img src="https://via.placeholder.com/40" alt="Tiktok"></a>
-            <a href="https://www.facebook.com" target="_blank"><img src="https://via.placeholder.com/40" alt="Facebook"></a>
+            <a href="https://www.tiktok.com/@hub_gaming226?_t=ZS-8ugZgYJ97oX&_r=1" target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+            <a href="https://www.facebook.com" target="_blank"><i class="fab fa-facebook-f"></i></a>
         </div>
     </div>
 </body>
