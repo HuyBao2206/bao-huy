@@ -82,7 +82,7 @@
     <div class="container">
         <header>
             <div class="avatar">
-                <img src="https://github.com/HuyBao2206/bao-huy/blob/d836d930e23ca832edef428a140903066cf562b5/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn.png" alt="Fk" />
+                <img src="https://raw.githubusercontent.com/HuyBao2206/bao-huy/main/Thi%E1%BA%BFt%20k%E1%BA%BF%20ch%C6%B0a%20c%C3%B3%20t%C3%AAn.png" alt="Fk" />
             </div>
             <h1>HUB GAMING</h1>
             <p>Chào mừng bạn đến với HUB GAMING! Tại đây, bạn sẽ được giải trí với những video gameplay, review, livestream và chia sẻ kinh nghiệm thú vị. Hãy đăng ký và theo dõi mình trên mọi nền tảng để không bỏ lỡ những nội dung độc đáo mỗi ngày!</p>
