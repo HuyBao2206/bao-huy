@@ -76,7 +76,6 @@
             <p>Tại đây, bạn sẽ được giải trí với những video gameplay, review, livestream và chia sẻ kinh nghiệm thú vị. Hãy đăng ký để không bỏ lỡ những nội dung độc đáo mỗi ngày!</p>
             <a href="https://zalo.me/your_zalo" class="contact-button">DONATE CHO TÔI TẠI ĐÂY NHÉ !</a>
         </div>
-        
         <div class="footer">
             <p>Liên hệ với tôi về công việc:</p>
             <p>📞 <strong>0795858142</strong> !!!</p>
