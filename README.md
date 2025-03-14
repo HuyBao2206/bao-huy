@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
@@ -62,7 +63,7 @@
 <body>
 
 <header>
-    <img src="[https://i.imgur.com/7qaqVld.png](https://github.com/HuyBao2206/bao-huy/blob/69392fcf664bdf0554195c802972ec654976c0fd/logo.png)" alt="BẢO HUY">
+    <img src="https://github.com/HuyBao2206/bao-huy/raw/69392fcf664bdf0554195c802972ec654976c0fd/logo.png" alt="BẢO HUY">
     <h1>BẢO HUY</h1>
     <h2>FREELANCER</h2>
     <p>"Eager to learn new things | Structured work approach with a strong focus on efficiency"</p>
@@ -83,10 +84,10 @@
 
 <section>
     <h2>Học vấn</h2>
-    <p><strong>Hue University of Foreign Languages (2021-2024)</strong
-    <p><strong>Chuyên ngành:</strong> Ngôn ngữ Anh</p>
+    <p><strong>Hue University of Foreign Languages (2021-2024)</strong></p>
+    <p><strong>    Chuyên ngành:</strong> Ngôn ngữ Anh</p>
     <p><strong>Chuyên sâu:</strong> Dịch thuật</p>
-    <p><strong>Xếp loại tốt nghiệp:</strong> Giỏi </p>
+    <p><strong>Xếp loại tốt nghiệp:</strong> Giỏi</p>
     <p><strong>Chứng chỉ:</strong></p>
     <ul>
         <li>Certificate of Proficiency in English (Level C1)</li>
