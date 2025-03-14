@@ -2,7 +2,7 @@
 <h1>Chào Mừng Đến Với Trang Web Của Tôi</h1>
 
 <div class="image-container">
-    <img src="[path_to_your_image.jpg](https://github.com/HuyBao2206/bao-huy/blob/69392fcf664bdf0554195c802972ec654976c0fd/%C4%91%E1%BA%A1i%20di%E1%BB%87n.png)" alt="Hình ảnh của tôi">
+    <img src="(https://github.com/HuyBao2206/bao-huy/blob/69392fcf664bdf0554195c802972ec654976c0fd/%C4%91%E1%BA%A1i%20di%E1%BB%87n.png)" alt="Hình ảnh của tôi">
 </div>
 
 <div class="social-links">
