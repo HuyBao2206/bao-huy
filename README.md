@@ -40,10 +40,11 @@
             font-size: 1.8em;
             margin: 20px 0 10px;
         }
-        p {
-            line-height: 1.6;
-            margin: 10px 0;
-        }
+       p {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
         .button {
             display: inline-block;
             padding: 10px 20px;
