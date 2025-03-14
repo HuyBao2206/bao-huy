@@ -88,17 +88,11 @@
             <p>Chào mừng bạn đến với HUB GAMING! Tại đây, bạn sẽ được giải trí với những video gameplay, review, livestream và chia sẻ kinh nghiệm thú vị. Hãy đăng ký và theo dõi mình trên mọi nền tảng để không bỏ lỡ những nội dung độc đáo mỗi ngày!</p>
             <a href="zalo-link" class="button">Ủng hộ mình ở đây nhé!</a>
         </header>
-        <section class="section">
-            <h2>Theo dõi để tận hưởng các nội dung:</h2>
-            <p>- Gameplay: Kênh kỹ năng chơi game không chắc hay nhưng mà vui.</p>
-            <p>- Review: Đánh giá mọi thứ, cùng nhau khẩu nghiệp trên live nhé !.</p>
-            <p>- Talk show: Tham gia livestream để tương tác và cùng nhau chia sẻ những trải nghiệm.</p>
-            <p>- Học hỏi: Cùng nhau học hỏi, phát triển và hoàn thiện mình hơn nho !.</p>
         </section>
         <section class="section">
-            <h2>Lịch phát sóng</h2>
+            <h2>Lịch phát lên hình cho anh chị em:</h2>
             <p>- Thứ Hai - Thứ Sáu: 19:00 - 21:00.</p>
-            <p>- Thứ Bảy và Chủ Nhật: 18:00 - 21:30.</p>
+            <p>- Thứ Bảy & Chủ Nhật: 18:00 - 21:30.</p>
         </section>
         <section class="contact-info">
             <h2>Liên hệ công việc</h2>
