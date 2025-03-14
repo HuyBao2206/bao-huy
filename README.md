@@ -85,31 +85,20 @@
                 <img src="https://github.com/HuyBao2206/bao-huy/blob/36c0fc733b3369d22c5c13cdf65077e12f0d1957/%C4%91%E1%BA%A1i%20di%E1%BB%87n.png" alt="Fk" />
             </div>
             <h1>HUB GAMING</h1>
-            <p>Chào mừng bạn đến với HUB GAMING! Tại đây, bạn sẽ được giải trí với những video gameplay, review, livestream và chia sẻ kinh nghiệm thú vị. Hãy đăng ký và theo dõi tôi trên mọi nền tảng để không bỏ lỡ những nội dung độc đáo mỗi ngày!</p>
+            <p>Chào mừng bạn đến với HUB GAMING! Tại đây, bạn sẽ được giải trí với những video gameplay, review, livestream và chia sẻ kinh nghiệm thú vị. Hãy đăng ký và theo dõi mình trên mọi nền tảng để không bỏ lỡ những nội dung độc đáo mỗi ngày!</p>
             <a href="zalo-link" class="button">Ủng hộ mình ở đây nhé!</a>
         </header>
         <section class="section">
-            <h2>Giới thiệu</h2>
-            <p>Tôi là một streamer đam mê game và muốn chia sẻ những trải nghiệm của mình với cộng đồng. Với nhiều năm kinh nghiệm trong lĩnh vực này, tôi hy vọng sẽ mang đến cho bạn những giây phút giải trí tuyệt vời.</p>
-        </section>
-        <section class="section">
-            <h2>Nội dung chính</h2>
-            <p>- Gameplay: Những trận đấu hấp dẫn và những khoảnh khắc thú vị trong game.</p>
-            <p>- Review: Đánh giá các tựa game mới nhất và những trò chơi hot.</p>
-            <p>- Livestream: Tham gia cùng tôi trong các buổi livestream thú vị.</p>
-            <p>- Chia sẻ kinh nghiệm: Những mẹo và thủ thuật để bạn có thể chơi game tốt hơn.</p>
-        </section>
-<section class="section">
-            <h2>Sở thích</h2>
-            <p>- Tham gia các giải đấu game và kết nối với cộng đồng game thủ.</p>
-            <p>- Khám phá các tựa game mới và chia sẻ cảm nhận của mình.</p>
-            <p>- Tạo nội dung sáng tạo và tương tác với người xem.</p>
+            <h2>Theo dõi để tận hưởng các nội dung:</h2>
+            <p>- Gameplay: Kênh kỹ năng chơi game không chắc hay nhưng mà vui.</p>
+            <p>- Review: Đánh giá mọi thứ, cùng nhau khẩu nghiệp trên live nhé !.</p>
+            <p>- Talk show: Tham gia livestream để tương tác và cùng nhau chia sẻ những trải nghiệm.</p>
+            <p>- Học hỏi: Cùng nhau học hỏi, phát triển và hoàn thiện mình hơn nho !.</p>
         </section>
         <section class="section">
             <h2>Lịch phát sóng</h2>
-            <p>- Thứ Hai: 19:00 - 21:00: Livestream game hành động.</p>
-            <p>- Thứ Tư: 20:00 - 22:00: Review game mới.</p>
-            <p>- Thứ Sáu: 18:00 - 20:00: Chia sẻ kinh nghiệm và mẹo chơi game.</p>
+            <p>- Thứ Hai - Thứ Sáu: 19:00 - 21:00.</p>
+            <p>- Thứ Bảy và Chủ Nhật: 18:00 - 21:30.</p>
         </section>
         <section class="contact-info">
             <h2>Liên hệ công việc</h2>
@@ -118,9 +107,9 @@
         </section>
         <footer>
             <div class="social-media">
-                <h2>Theo dõi tôi trên mạng xã hội</h2>
-                <a href="tiktok-link" target="_blank">TikTok</a>
-                <a href="facebook-link" target="_blank">Facebook</a>
+                <h2>Theo dõi mình trên mạng xã hội</h2>
+                <a href="https://www.tiktok.com/@hub_gaming226?_t=ZS-8ugZgYJ97oX&_r=1" target="_blank">TikTok</a>
+                <a href="https://www.facebook.com/cynical2206" target="_blank">Facebook</a>
             </div>
         </footer>
     </div>
